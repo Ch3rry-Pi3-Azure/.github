@@ -53,7 +53,7 @@ The repositories below represent **key capability areas** within this organisati
 
 
 
-### 1) <span style="color:#2f81f7">**Databricks Machine Learning (Azure)**</span>
+### 1) **Databricks Machine Learning (Azure)**
 
 **Standalone ML workflows on Azure Databricks**
 
