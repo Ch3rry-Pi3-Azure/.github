@@ -1,4 +1,4 @@
-# <span style="color:#2f81f7">**`Ch3rry Pi3 | Azure`**</span>
+# <span style="color:#2f81f7">**`Ch3rry Pi3 | Azure | Mini-Projects`**</span>
 
 Terraform-first Microsoft Azure projects demonstrating **standalone platform capabilities**, **machine learning & AI workflows**, and **practical Databricks-based architectures**.
 
